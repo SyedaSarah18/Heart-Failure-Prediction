@@ -5,3 +5,4 @@ Within the Azure Machine Learning Studio environment, I built two models: a cus
 # Result
 ![RES1](https://github.com/SyedaSarah18/Heart-Failure-Prediction/assets/54178904/3fb82d4f-bda3-49b0-8d01-37d86a654a38)
 ![RES1](https://github.com/SyedaSarah18/Heart-Failure-Prediction/assets/54178904/844b1e4b-2485-45d0-988c-2e7cd1d17d7d)
+![RES1](https://github.com/SyedaSarah18/Heart-Failure-Prediction/assets/54178904/1d4885ea-06e4-433c-97f1-e55511cb2f84)
