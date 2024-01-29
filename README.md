@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction
-Within the MS Azure Machine Learning Studio environment, I built two models in : a customized model with hyperparameter tuning, and one using Automated Machine Learning. I then analyzed the performance of both models and deployed the best performing model as a service using Azure Container Instances (ACI).
+Within the MS Azure Machine Learning Studio environment, I built two models in Python: a customized model with hyperparameter tuning, and one using Automated Machine Learning. I then analyzed the performance of both models and deployed the best performing model as a service using Azure Container Instances (ACI).
 In addition, a chatgpt API was integrated in the back-end to provide an AI driven experience to the Heart Disease Detection website.
 
 Machine Learning Concepts: Regression, Classification, Ensemble methods.
